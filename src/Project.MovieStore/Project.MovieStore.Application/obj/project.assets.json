@@ -6813,11 +6813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Application\\Project.MovieStore.Application.csproj",
+      "projectUniqueName": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Application\\Project.MovieStore.Application.csproj",
       "projectName": "Project.MovieStore.Application",
-      "projectPath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Application\\Project.MovieStore.Application.csproj",
+      "projectPath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Application\\Project.MovieStore.Application.csproj",
       "packagesPath": "C:\\Users\\umitkoysu\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Application\\obj\\",
+      "outputPath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6839,8 +6839,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Persistence\\Project.MovieStore.Persistence.csproj": {
-              "projectPath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Persistence\\Project.MovieStore.Persistence.csproj"
+            "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Persistence\\Project.MovieStore.Persistence.csproj": {
+              "projectPath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Persistence\\Project.MovieStore.Persistence.csproj"
             }
           }
         }

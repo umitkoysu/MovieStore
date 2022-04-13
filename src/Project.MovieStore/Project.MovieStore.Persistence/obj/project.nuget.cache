@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DaY00NvhziO7rVIKH7XjqKErhJTENhG+NeoSt5BPkf50OXOKjlWGf4w+7ZYeohhi5UqFUV31XW21F0Fq+sZ70Q==",
+  "dgSpecHash": "frono4nkME8hM16VcX62bHssquKkWxUW0WYRrFdH/VL+1uT9BbUxCuKuhXbDvaj55pBQNB5e9bAaKlKgBd1hKw==",
   "success": true,
-  "projectFilePath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Persistence\\Project.MovieStore.Persistence.csproj",
+  "projectFilePath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Persistence\\Project.MovieStore.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umitkoysu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\umitkoysu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

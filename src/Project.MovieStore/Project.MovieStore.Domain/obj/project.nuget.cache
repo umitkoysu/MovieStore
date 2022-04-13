@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lsa/XGt8YX/PGisCQ4yf7QYo4/7Htqc+9z/H9ZO3vstWlfovizpB9Oz26J3k+bfLNUDzuQ/W+MW5+7FQEKtaDQ==",
+  "dgSpecHash": "CwBt1LoJ6iS/Wf0+qlFl4ir5XIVv4k787zAakrOkOJcikRSB7/TwxkdCfab2Y8RNVUZz1KJvAQ5e4FDkZ1/r+g==",
   "success": true,
-  "projectFilePath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Domain\\Project.MovieStore.Domain.csproj",
+  "projectFilePath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Domain\\Project.MovieStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umitkoysu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
   ],

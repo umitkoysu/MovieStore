@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZelhVc5VAzrZNdWw29ZnmhqTkvKICBK+2nFq7KnFAOBtC3+upglu0/ixdaH8pDcNfCz5ZXng1Pppr9puJEo7g==",
+  "dgSpecHash": "vwzqAD+2jOXTE0/86GQcaiA1LmO+D8f9/AdHqHY9zH7cjJoepA0x4EFhdCZwKG7lk6r+KMay/2SMNnze1f0ZVw==",
   "success": true,
-  "projectFilePath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj",
+  "projectFilePath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

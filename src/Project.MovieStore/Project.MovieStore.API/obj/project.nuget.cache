@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5duTVaR8yjL2972t98N5WrmqaWX7ChD+F3swgG+5fDlMBd1NLOkk/6lONfNeneU0QSjpPTEoAK2OglP+1ki74g==",
+  "dgSpecHash": "tMgTTvcd0KHu4WEWvt4vTPvCzq04VMhMdZnRkLTPwhTYeIXDdBRPalIV9RDt6uEmPwdmXDTjC0VkRjCWUONH2w==",
   "success": true,
-  "projectFilePath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.API\\Project.MovieStore.API.csproj",
+  "projectFilePath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.API\\Project.MovieStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umitkoysu\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\umitkoysu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

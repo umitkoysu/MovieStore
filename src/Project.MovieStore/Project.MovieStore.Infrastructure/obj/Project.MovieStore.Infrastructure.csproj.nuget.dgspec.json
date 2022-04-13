@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj": {}
+    "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj": {
+    "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj",
+        "projectUniqueName": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj",
         "projectName": "Project.MovieStore.Infrastructure",
-        "projectPath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj",
+        "projectPath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Infrastructure\\Project.MovieStore.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\umitkoysu\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeLab\\Interview\\Project.MovieStore\\Project.MovieStore.Infrastructure\\obj\\",
+        "outputPath": "D:\\CodeLab\\Interview\\MovieStore\\src\\Project.MovieStore\\Project.MovieStore.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
