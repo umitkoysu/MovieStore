@@ -1,0 +1,11 @@
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\bin\Debug\net6.0\Project.MovieStore.Domain.deps.json
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\bin\Debug\net6.0\Project.MovieStore.Domain.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\bin\Debug\net6.0\ref\Project.MovieStore.Domain.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\bin\Debug\net6.0\Project.MovieStore.Domain.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\Project.MovieStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\Project.MovieStore.Domain.AssemblyInfoInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\Project.MovieStore.Domain.AssemblyInfo.cs
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\Project.MovieStore.Domain.csproj.CoreCompileInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\Project.MovieStore.Domain.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\ref\Project.MovieStore.Domain.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Domain\obj\Debug\net6.0\Project.MovieStore.Domain.pdb

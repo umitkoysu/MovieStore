@@ -1,0 +1,12 @@
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\bin\Debug\net6.0\Project.MovieStore.Infrastructure.deps.json
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\bin\Debug\net6.0\Project.MovieStore.Infrastructure.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\bin\Debug\net6.0\ref\Project.MovieStore.Infrastructure.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\bin\Debug\net6.0\Project.MovieStore.Infrastructure.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.AssemblyInfoInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.AssemblyInfo.cs
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\ref\Project.MovieStore.Infrastructure.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Infrastructure\obj\Debug\net6.0\Project.MovieStore.Infrastructure.csproj.AssemblyReference.cache

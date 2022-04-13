@@ -1,0 +1,17 @@
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.csproj.AssemblyReference.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.AssemblyInfoInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.AssemblyInfo.cs
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.csproj.CoreCompileInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Application.deps.json
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Application.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\ref\Project.MovieStore.Application.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Application.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Domain.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Persistence.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Persistence.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\bin\Debug\net6.0\Project.MovieStore.Domain.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.csproj.CopyComplete
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\ref\Project.MovieStore.Application.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Application\obj\Debug\net6.0\Project.MovieStore.Application.pdb

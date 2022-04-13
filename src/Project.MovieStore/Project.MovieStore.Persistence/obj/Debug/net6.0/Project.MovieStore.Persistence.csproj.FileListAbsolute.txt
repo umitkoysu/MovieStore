@@ -1,0 +1,17 @@
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.csproj.AssemblyReference.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.AssemblyInfoInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.AssemblyInfo.cs
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.csproj.CoreCompileInputs.cache
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\Project.MovieStore.Persistence.deps.json
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\Project.MovieStore.Persistence.runtimeconfig.json
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\Project.MovieStore.Persistence.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\ref\Project.MovieStore.Persistence.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\Project.MovieStore.Persistence.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\Project.MovieStore.Domain.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\bin\Debug\net6.0\Project.MovieStore.Domain.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.csproj.CopyComplete
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\ref\Project.MovieStore.Persistence.dll
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.pdb
+D:\CodeLab\Interview\Project.MovieStore\Project.MovieStore.Persistence\obj\Debug\net6.0\Project.MovieStore.Persistence.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30782dba-7075-4c88-8020-3879324c669c": {
+      "ProjectGuid": "30782dba-7075-4c88-8020-3879324c669c",
+      "DisplayName": "Project.MovieStore.Application",
+      "ColorIndex": 0
+    },
+    "e3b27026-d8c7-4630-bd63-b8d23574c7cf": {
+      "ProjectGuid": "e3b27026-d8c7-4630-bd63-b8d23574c7cf",
+      "DisplayName": "Project.MovieStore.Domain",
+      "ColorIndex": 1
+    },
+    "08a80e7c-49c4-448b-88ac-5110da199f84": {
+      "ProjectGuid": "08a80e7c-49c4-448b-88ac-5110da199f84",
+      "DisplayName": "Project.MovieStore.Persistence",
+      "ColorIndex": 2
+    },
+    "d38fb2f7-c4ff-4cd9-b228-78b6a20af6b5": {
+      "ProjectGuid": "d38fb2f7-c4ff-4cd9-b228-78b6a20af6b5",
+      "DisplayName": "Project.MovieStore.API",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

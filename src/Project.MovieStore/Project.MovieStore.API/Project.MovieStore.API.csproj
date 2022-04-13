@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Project.MovieStore.Application\Project.MovieStore.Application.csproj" />
+    <ProjectReference Include="..\Project.MovieStore.Infrastructure\Project.MovieStore.Infrastructure.csproj" />
+    <ProjectReference Include="..\Project.MovieStore.Persistence\Project.MovieStore.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
